@@ -8,5 +8,7 @@
 - 「P」のタマを取り続けて体力を食いつなげる  
 - 体力が切れるか鉄球に当たるとゲームオーバー
 
+※ライセンスは「CC BY-NC 4.0」です。
+
 制作 : 要塞民  
 Twitter : [https://twitter.com/kamatayosaimin]([URL](https://twitter.com/kamatayosaimin))
